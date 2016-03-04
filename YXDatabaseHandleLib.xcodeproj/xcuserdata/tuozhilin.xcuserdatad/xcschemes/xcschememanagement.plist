@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>HandleScript.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>YXDatabaseHandleLib.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>mappingFile.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>CA39F4CE1C8587EC0041ECF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CA39F4D81C8587EC0041ECF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CA39F53E1C85898A0041ECF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CA39F5BC1C859DB70041ECF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
